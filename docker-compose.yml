@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: my-MachineLimage
+    ports:
+      - "8088:8080"
+    networks:
+      - iotproject_my-net
+    env_file:
+      - .env
+
+networks:
+  iotproject_my-net:
+    external: true
