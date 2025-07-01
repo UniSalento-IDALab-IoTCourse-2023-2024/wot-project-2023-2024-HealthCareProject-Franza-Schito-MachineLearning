@@ -8,7 +8,10 @@ Il progetto si è sviluppato su due fronti principali. Da una parte, è stato im
 
 ## Architettura del sistema
 
-IMMAGINE
+<div align="center">
+  <img src="Architettura.png" alt="Architettura" width="1000"/>
+</div>
+
 Le componenti dell'architettura sono:
 - **Front End - Javascript** 
 - **Back End - Java** 
@@ -32,4 +35,4 @@ I dataset utilizzati per l’addestramento  e il test del modello di machine lea
 
 ## Il repository del Front End  si trova al seguente link: [wot-project-2023-2024-HealthCareProject-Franza-Schito-FrontEnd](https://github.com/UniSalento-IDALab-IoTCourse-2023-2024/wot-project-2023-2024-HealthCareProject-Franza-Schito-FrontEnd.git)
 
-## Il sito web del progetto si trova al seguente link: []()
+## Il sito web del progetto si trova al seguente link: [Sito Web](https://unisalento-idalab-iotcourse-2023-2024.github.io/wot-project-2023-2024-presentation-Franza-Schito-AndreaFr0.github.io/)
