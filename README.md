@@ -1,4 +1,4 @@
-# wot-HealthCareProject-Franza-Schito-MachineLearning
+# wot-NeuroCare-Franza-Schito-MachineLearning
 
 ## Descrizione del progetto
 
@@ -31,8 +31,8 @@ I dataset utilizzati per l’addestramento  e il test del modello di machine lea
 
 - **State**: etichetta di classificazione, che rappresenta lo stato fisico e comportamentale del paziente in un giorno.
 
-## Il repository del Back End si trova al seguente link: [wot-project-2023-2024-HealthCareProject-Franza-Schito-BackEnd](https://github.com/UniSalento-IDALab-IoTCourse-2023-2024/wot-project-2023-2024-HealthCareProject-Franza-Schito-Backend.git)
+## Il repository del Back End si trova al seguente link: [wot-project-2023-2024-NeuroCare-Franza-Schito-BackEnd](https://github.com/UniSalento-IDALab-IoTCourse-2023-2024/wot-project-2023-2024-NeuroCare-Franza-Schito-Backend.git)
 
-## Il repository del Front End  si trova al seguente link: [wot-project-2023-2024-HealthCareProject-Franza-Schito-FrontEnd](https://github.com/UniSalento-IDALab-IoTCourse-2023-2024/wot-project-2023-2024-HealthCareProject-Franza-Schito-FrontEnd.git)
+## Il repository del Front End  si trova al seguente link: [wot-project-2023-2024-NeuroCare-Franza-Schito-FrontEnd](https://github.com/UniSalento-IDALab-IoTCourse-2023-2024/wot-project-2023-2024-NeuroCare-Franza-Schito-FrontEnd.git)
 
 ## Il sito web del progetto si trova al seguente link: [Sito Web](https://unisalento-idalab-iotcourse-2023-2024.github.io/wot-project-2023-2024-presentation-Franza-Schito-AndreaFr0.github.io/)
